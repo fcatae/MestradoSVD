@@ -14,8 +14,7 @@ entre documentos se mantém equivalente. Esta proposta permite determinar a dime
 além do tempo requerido pela análise da semântica latente tradicional. Os resultados mostraram ganhos significativos em adotar 
 o número correto de dimensões
 
-**Link do site da USP:**
-[](http://www.teses.usp.br/teses/disponiveis/3/3141/tde-06072014-225124/pt-br.php)
+**Link do site da USP:** [http://www.teses.usp.br/teses/disponiveis/3/3141/tde-06072014-225124/pt-br.php]()
 
 ## Código Fonte
 
